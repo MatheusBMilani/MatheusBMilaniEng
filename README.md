@@ -47,5 +47,5 @@ public static void main(String args[]){
 
 The most important one!  <\ ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) />
 
-## ⚙ Statistics
+## ⚙ Estadísticas
 <img align="center" src= "https://github-readme-stats.vercel.app/api?username=MatheusBMilani&show_icons=true&theme=midnight-purple&line_height=27" alt="Mat github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBMilani&theme=midnight-purple&hide_langs_below=1"/>
