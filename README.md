@@ -1,4 +1,4 @@
-## Welcome! 🌎 [Português](https://github.com/MatheusBMilani/MatheusBMilani#readme) | [English](https://github.com/MatheusBMilani/MatheusBMilaniEng/blob/main/README.md) | [Español]()
+## Welcome! 🌎 [Português](https://github.com/MatheusBMilani/MatheusBMilani#readme) | [English](https://github.com/MatheusBMilani/MatheusBMilaniEng/blob/main/README.md) | [Español](https://github.com/MatheusBMilani/MatheusBMilaniSpa/blob/main/README.md)
 
 My name is Matheus Milani, I'm currently pursuing my bachelor's degree in Computer Science at [Universidade Anhembi Morumbi](https://portal.anhembi.br).
 Besides, I'm attending the BootCamp of [Generation Brasil](https://brazil.generation.org/sao-paulo/pessoa-desenvolvedora-web/), with the intention of becoming a Full Stack Java developer!
@@ -47,5 +47,5 @@ public static void main(String args[]){
 
 The most important one!  <\ ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) />
 
-## ⚙ Estadísticas
+## ⚙ Statistics
 <img align="center" src= "https://github-readme-stats.vercel.app/api?username=MatheusBMilani&show_icons=true&theme=midnight-purple&line_height=27" alt="Mat github stats" /> |<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBMilani&theme=midnight-purple&hide_langs_below=1"/>
